@@ -14,7 +14,7 @@ body{
 }
 
 .container{
-	/*width: 900px;*/
+	width: 900px;
 	width: 65.88%;
 	margin: 0 auto;
 }
@@ -59,7 +59,6 @@ body{
 .article_single ul li{
 	margin-top: 5px;
 }
-
 /*
 .form_contact{
 	text-align: center;
